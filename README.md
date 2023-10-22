@@ -20,7 +20,7 @@
 #### 관심있는 프로그래밍 언어.
 >    ```javascript
 >    function b(my) {
->        text(["TypeScript", "React", "Node.js", "Kotlin", "Java"]);  
+>        text(["TypeScript", "React", "Node.js", "Kotlin", "Java", "Rust"]);  
 >    }
 >    ```
 >
