@@ -6,8 +6,8 @@
 <br>
 
 <p>안정적인 백엔드 시스템 위에서 똑똑한 AI 서비스를 구현하는 것을 목표로 공부하고 있습니다.<br>새로운 기술을 배우고, 아이디어를 코드로 실현하는 과정을 즐깁니다.</p>
-<p>I am studying with the aim of implementing smart AI services on top of a stable backend system.
-I learn new skills and enjoy the process of realizing ideas in code.</p>
+<p>I am studying with the aim of implementing smart AI services on top of a stable backend system.</p>
+<p>I learn new skills and enjoy the process of realizing ideas in code.</p>
 
 <br>
 
