@@ -43,7 +43,6 @@
   <strong>AI / ML</strong><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 <p>
@@ -62,5 +61,4 @@
   <a href="mailto:junhoheo@outlook.com"><img src="https://img.shields.io/badge/Email-86b37f?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://junho.art" target="_blank"><img src="https://img.shields.io/badge/Portfolio-86b37f?style=for-the-badge&logo=rss&logoColor=white"></a>
   <a href="https://junho.art" target="_blank"><img src="https://img.shields.io/badge/Blog-86b37f?style=for-the-badge&logo=blogger&logoColor=white"></a>
-  <a href="[링크드인 주소]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-86b37f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
