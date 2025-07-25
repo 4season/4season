@@ -54,45 +54,6 @@
 
 <br>
 
-### **🚀 Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">카카오톡 봇 프로젝트</h3>
-      <div align="center">
-        <a href="[프로젝트 깃허브 주소]" target="_blank">
-          <img src="https://images.unsplash.com/photo-1593112484705-592f41855a9b?q=80&w=400" alt="카카오톡 봇 프로젝트">
-        </a>
-        <p>
-          일상 생활에 편리함을 더해주는 똑똑한 카카오톡 봇
-        </p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Kakao i-FFCD00?style=flat&logo=kakao&logoColor=black"/>
-        </div>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">[두 번째 프로젝트 이름]</h3>
-      <div align="center">
-        <a href="[프로젝트 깃허브 주소]" target="_blank">
-          <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=400" alt="두 번째 프로젝트">
-        </a>
-        <p>
-          [프로젝트에 대한 한 줄 설명]
-        </p>
-        <div align="center">
-          <!-- 사용한 기술 스택 배지를 여기에 추가하세요 -->
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ### **📬 Contact & Links**
 
 <p align="left">
