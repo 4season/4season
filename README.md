@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-snowy-six-56.vercel.app.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8ea" alt="June's GitHub Stat" />
+    <img src="https://github-readme-stats-snowy-six-56.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8ea" alt="June's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-snowy-six-56.vercel.app/api/top-langs/?username=4season&layout=compact&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&border_radius=10&border_color=f2e8ea" alt="June's Top Languages" />
