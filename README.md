@@ -1,49 +1,100 @@
-# Hi there 👋
-사계절(허준호)의 "시간"을 기록할 저를 위한 Github 입니다.  
-오늘도 저의 시간을 방문해주셔서 감사합니다.
+<div align="center">
 
-## 저는 이런 사람입니다.
-- 수 많은 스트레스 속에서 어떻게든 살아갈의지를 찾는 사람.
-- 대한민국에선 인정받지못하는 정신질환을 가지고 있지만, 어떻게든 극복하고 싶은 사람.
-- 행복하고, 인정받는 프로그래머가 되고 싶은 사람.  
+### **안녕하세요! 👋**
+### **데이터로 더 나은 세상을 만드는 주니어 백엔드 & AI 엔지니어, June입니다.**
 
-## 실시간 정보안내.
-아래는 저의 상태를 나타내는 보드입니다.  
+<br>
 
-#### 현제 주력으로 다루는 언어.
->    ```javascript
->    function a(my) {  
->        text("JavaScript");  
->    }
->    ```
->
-#### 관심있는 프로그래밍 언어.
->    ```javascript
->    function b(my) {
->        text(["TypeScript", "React", "Node.js", "Kotlin", "Java", "Rust"]);  
->    }
->    ```
->
-#### 현제 진행중인 프로젝트.
->    ```javascript
->    function c(my) {
->        text("node.js 웹크롤링을 이용한 정보수집 및 정보분석");
->        text("각종 봇 디스코드, 텔레그램 등 을 이용한 도구 제작");
->        text("뭘 할지 소재찾는 중...");
->    }
->    ```
->
-#### 나의 인생 목표.
->    ```javascript
->    function d(my) {
->        text("행복해지는 것 그거뿐...");  
->    }
->    ```
->
-#### 내 진로?
->    ```javascript
->    function e(my) {
->        text("시스템 운영체제 프로그래머");  
->    }
->    ```
->    
+<p>안정적인 백엔드 시스템 위에서 똑똑한 AI 서비스를 구현하는 것을 목표로 공부하고 있습니다.<br>새로운 기술을 배우고, 아이디어를 코드로 실현하는 과정을 즐깁니다.</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-snowy-six-56.vercel.app.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8ea" alt="June's GitHub Stat" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-snowy-six-56.vercel.app/api/top-langs/?username=4season&layout=compact&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&border_radius=10&border_color=f2e8ea" alt="June's Top Languages" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### **🛠️ Tech Stack**
+
+<p>
+  <strong>Languages & Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/Python-b37f8c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-b37f8c?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-b37f8c?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-b37f8c?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-b37f8c?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<p>
+  <strong>AI / ML</strong><br>
+  <img src="https://img.shields.io/badge/PyTorch-b37f8c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-b37f8c?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-b37f8c?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p>
+  <strong>Database & DevOps</strong><br>
+  <img src="https://img.shields.io/badge/MySQL-b37f8c?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-b37f8c?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-b37f8c?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-b37f8c?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-b37f8c?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+<br>
+
+### **🚀 Featured Projects**
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">카카오톡 봇 프로젝트</h3>
+      <div align="center">
+        <a href="[프로젝트 깃허브 주소]" target="_blank">
+          <img src="https://images.unsplash.com/photo-1593112484705-592f41855a9b?q=80&w=400" alt="카카오톡 봇 프로젝트">
+        </a>
+        <p>
+          일상 생활에 편리함을 더해주는 똑똑한 카카오톡 봇
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kakao i-FFCD00?style=flat&logo=kakao&logoColor=black"/>
+        </div>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">[두 번째 프로젝트 이름]</h3>
+      <div align="center">
+        <a href="[프로젝트 깃허브 주소]" target="_blank">
+          <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=400" alt="두 번째 프로젝트">
+        </a>
+        <p>
+          [프로젝트에 대한 한 줄 설명]
+        </p>
+        <div align="center">
+          <!-- 사용한 기술 스택 배지를 여기에 추가하세요 -->
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### **📬 Contact & Links**
+
+<p align="left">
+  <a href="mailto:junhoheo@outlook.com"><img src="https://img.shields.io/badge/Email-86b37f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://junho.art" target="_blank"><img src="https://img.shields.io/badge/Portfolio-86b37f?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="https://junho.art" target="_blank"><img src="https://img.shields.io/badge/Blog-86b37f?style=for-the-badge&logo=blogger&logoColor=white"></a>
+  <a href="[링크드인 주소]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-86b37f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
