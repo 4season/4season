@@ -1,26 +1,55 @@
 <div align="center">
 
 ### **안녕하세요! 👋**
-### **데이터로 더 나은 세상을 만드는 주니어 백엔드 & AI 엔지니어, June입니다.**
+### **데이터와 AI로 더 나은 세상을 만드는 백엔드 & AI 엔지니어, June입니다.**
 
 <br>
 
-<p>안정적인 백엔드 시스템 위에서 똑똑한 AI 서비스를 구현하는 것을 목표로 공부하고 있습니다.<br>새로운 기술을 배우고, 아이디어를 코드로 실현하는 과정을 즐깁니다.</p>
-<p>I am studying with the aim of implementing smart AI services on top of a stable backend system.</p>
-<p>I learn new skills and enjoy the process of realizing ideas in code.</p>
+<p align="center">
+  <em>난치병이라는 도전 속에서 깊은 사고의 능력을 발견했습니다.</em> <br>
+  <em>Discovering deep thinking through life's challenges.</em>
+</p>
+
+<br>
+
+#### **🧠 나의 이야기**
+저는 난치병 환자이지만, 이를 제 약점이 아닌 **독특한 강점**으로 발전시켜나가고 있습니다.
+
+제어 불가능했던 **뇌의 기본 모드 네트워크**를 의식적으로 활용하기 시작하면서, 단편적인 사고에서 벗어나 **연속적이고 깊이 있는 사고**를 수행할 수 있게 되었습니다. 정보가 늘어날수록 더 깊게 사고하며, 다양한 관점에서 문제를 바라보는 능력이 생겼습니다.
+
+제 목표는 안정적인 백엔드 시스템과 지능형 AI 기술을 통해 **사람들의 신체적, 정신적 어려움을 함께 해결**하는 연구자가 되는 것입니다.
+
+<br>
+
+#### **💡 제 강점**
+
+| 항목 | 설명 |
+|------|------|
+| **심층 사고 능력** | 정보가 증가할수록 더 깊어지는 다차원적 사고 - 문제 분석과 창의적인 솔루션 도출에 최적화 |
+| **신경과학에 대한 이해** | 푸리에 급수, 신경망 활성화 함수 등 뇌 신호 처리 알고리즘을 직접 설계하고 구현 중 |
+| **견고한 백엔드 설계** | 데이터 정확성과 효율성을 추구하며, 신뢰할 수 있는 시스템 아키텍처 구축 |
+
+<br>
+
+#### **🎓 관심 분야**
+
+- 신경신호 분석 및 신호 처리 기술
+- 의료 AI: 환자 맞춤형 솔루션 개발
+- 지능형 백엔드 시스템 설계
 
 <br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-snowy-six-56.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8ea" alt="June's GitHub Stats" />
+    <img src="https://github-readme-stats-snowy-six-56.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8e1" />
   </a> <br> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-snowy-six-56.vercel.app/api/top-langs/?username=4season&layout=compact&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&border_radius=10&border_color=f2e8ea" alt="June's Top Languages" />
+    <img src="https://github-readme-stats-snowy-six-56.vercel.app/api/top-langs/?username=4season&layout=compact&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&border_radius=10&border_color=f2e8e1" />
   </a>
 </p>
 
 </div>
+
 <br>
 
 ---
@@ -42,9 +71,10 @@
 </p>
 
 <p>
-  <strong>AI / ML</strong><br>
+  <strong>AI / ML & Signal Processing</strong><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Signal Processing-4169E1?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p>
@@ -63,4 +93,13 @@
   <a href="mailto:junhoheo@outlook.com"><img src="https://img.shields.io/badge/Email-86b37f?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://junho.art" target="_blank"><img src="https://img.shields.io/badge/Portfolio-86b37f?style=for-the-badge&logo=rss&logoColor=white"></a>
   <a href="https://junho.art" target="_blank"><img src="https://img.shields.io/badge/Blog-86b37f?style=for-the-badge&logo=blogger&logoColor=white"></a>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <em>"제 도전이 누군가의 희망이 될 수 있다면, 그것이 제 보람입니다."</em><br>
+  <em>"If my journey can become someone's hope, that is my purpose."</em>
 </p>
