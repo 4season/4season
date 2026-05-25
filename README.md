@@ -3,9 +3,6 @@
 ### **안녕하세요! 👋**
 ### **데이터로 더 나은 세상을 만드는 주니어 백엔드 & AI 엔지니어, June입니다.**
 
-#### 📅 프로젝트 생성일
-![생성일](https://img.shields.io/github/created-at/4season/README.md?style=flat-square&color=blue&label=Created%20At)
-
 <br>
 
 <p>안정적인 백엔드 시스템 위에서 똑똑한 AI 서비스를 구현하는 것을 목표로 공부하고 있습니다.<br>새로운 기술을 배우고, 아이디어를 코드로 실현하는 과정을 즐깁니다.</p>
