@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="left">\
+<div align="left">
   
   #### **🧠 나의 이야기**
   저는 난치병 환자이지만, 이를 제 약점이 아닌 **독특한 강점**으로 발전시켜나가고 있습니다.
@@ -44,14 +44,13 @@
 
 <br>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap; wrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-snowy-six-56.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8e1" />
-  </a> <br> <br>
+  </a> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-snowy-six-56.vercel.app/api/top-langs/?username=4season&layout=compact&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&border_radius=10&border_color=f2e8e1" />
   </a>
-</p>
 
 </div>
 
