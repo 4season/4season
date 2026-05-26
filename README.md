@@ -44,7 +44,7 @@
 
 <br>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap; wrap;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-snowy-six-56.vercel.app/api?username=4season&show_icons=true&bg_color=fff9fb&title_color=b37f8c&text_color=594a4e&icon_color=86b37f&border_radius=10&border_color=f2e8e1" />
   </a> 
