@@ -57,35 +57,58 @@
 
 <br>
 
+### **📂 Featured Projects**
+
+인간의 인지 과정 모델링과 계산정신의학 연구를 지향하며 수행한 주요 프로젝트들입니다.
+
+*   **[sobdm-project](https://github.com/4season/sobdm-project) (Python, Q-learning, SciPy)**
+    *   2-Step Decision Making Task 행동 데이터를 기반으로 강화학습 모델(Q-learning)을 적합하고 시뮬레이션하는 피팅 엔진입니다.
+    *   *연구적 의의*: 계산정신의학에서 인지적 의사결정의 개인차와 정신적 장애 기전을 모델링하기 위한 분석 기초입니다.
+*   **[ConvDDI](https://github.com/4season/ConvDDI) (Python, PyTorch, Scikit-learn)**
+    *   1D CNN 및 Multi-head Attention 기반의 약물-약물 상호작용(DDI) 예측 딥러닝 모델입니다.
+    *   *연구적 의의*: 정신의학적 다제복약(Polypharmacy) 상황에서 발생할 수 있는 약물 상호작용 위험성을 예측합니다.
+*   **[Magnolia](https://github.com/4season/Magnolia) (Rust, Android/Java)**
+    *   신경 신호(EEG/fMRI) 전처리와 기계학습 모델 학습을 위한 기초 템플릿이자, 알림 기반 서비스 파이프라인을 구축하는 프로젝트입니다.
+*   **[TrendXiv](https://github.com/4season/TrendXiv) (Python, Node.js, ML)**
+    *   arXiv 학술 논문 데이터와 소셜 미디어 트렌드를 수집하고 PCA 및 머신러닝 분류기를 이용해 최신 연구 트렌드를 분석하는 파이프라인입니다.
+*   **[junho.art](https://github.com/4season/junho.art) (HTML, CSS, JavaScript)**
+    *   실시간 Pinned Repositories 연동 기능이 구현된 반응형 계산정신의학 연구자 포트폴리오 웹사이트입니다.
+
+<br>
+
 ---
 
 ### **🛠️ Tech Stack**
 
 <p>
   <strong>Languages & Frameworks</strong><br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p>
-  <strong>AI / ML</strong><br>
+  <strong>AI / ML / Data Analysis</strong><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
 <p>
   <strong>Database & DevOps</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+<br>
 
 <br>
 
