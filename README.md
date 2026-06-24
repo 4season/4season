@@ -67,8 +67,8 @@
 *   **[ConvDDI](https://github.com/4season/ConvDDI) (Python, PyTorch, Scikit-learn)**
     *   1D CNN 및 Multi-head Attention 기반의 약물-약물 상호작용(DDI) 예측 딥러닝 모델입니다.
     *   *연구적 의의*: 정신의학적 다제복약(Polypharmacy) 상황에서 발생할 수 있는 약물 상호작용 위험성을 예측합니다.
-*   **[Magnolia](https://github.com/4season/Magnolia) (Rust, Android/Java)**
-    *   신경 신호(EEG/fMRI) 전처리와 기계학습 모델 학습을 위한 기초 템플릿이자, 알림 기반 서비스 파이프라인을 구축하는 프로젝트입니다.
+*   **[Magnolia](https://github.com/4season/Magnolia) (Python, Scikit-learn)**
+    *   신경 신호(EEG/fMRI) 전처리와 기계학습 모델 학습을 위한 기초 템플릿 프로젝트입니다.
 *   **[TrendXiv](https://github.com/4season/TrendXiv) (Python, Node.js, ML)**
     *   arXiv 학술 논문 데이터와 소셜 미디어 트렌드를 수집하고 PCA 및 머신러닝 분류기를 이용해 최신 연구 트렌드를 분석하는 파이프라인입니다.
 *   **[junho.art](https://github.com/4season/junho.art) (HTML, CSS, JavaScript)**
@@ -83,9 +83,6 @@
 <p>
   <strong>Languages & Frameworks</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
