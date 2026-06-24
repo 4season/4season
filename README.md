@@ -56,8 +56,10 @@ I am currently expanding this foundation toward reinforcement learning, probabil
 </p>
 
 <p>
-  <strong>DevOps</strong><br>
+  <strong>Database & DevOps</strong><br>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ## **Contact & Links**
