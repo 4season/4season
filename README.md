@@ -54,20 +54,16 @@ My long-term goal is to understand how attention, arousal, learning, and decisio
 ### Selected Projects
 
 #### ConvDDI
-
-CNN-based drug–drug interaction prediction.
+* CNN-based drug–drug interaction prediction.
 
 #### TrendXiv
-
-Analysis and prediction of arXiv research trends.
+* Analysis and prediction of arXiv research trends.
 
 #### Bus Delay Prediction
-
-MLP-based prediction of bus arrival delays.
+* MLP-based prediction of bus arrival delays.
 
 #### Magnolia
-
-Backend and notification-processing system.
+* Backend and notification-processing system.
 
 ⸻
 
