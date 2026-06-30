@@ -16,19 +16,16 @@
 
 ⸻
 
-Hello, I’m Junho Heo 👋
+## Hello, I’m Junho Heo 👋
 
 I am an undergraduate student in Computer Science interested in computational neuroscience, human learning, decision-making, and computational psychiatry.
-
 My academic interests began with a simple question:
-
 Why do people process the same information differently, learn at different speeds, and make different decisions under similar conditions?
-
 I hope to approach this question by combining computational models, behavioral data, and neural data.
 
 ⸻
 
-Research Interests
+### Research Interests
 
 * Computational Neuroscience
 * Computational Psychiatry
@@ -38,7 +35,7 @@ Research Interests
 
 ⸻
 
-Current Focus
+### Current Focus
 
 I have experience in machine learning, data preprocessing, backend development, and cloud infrastructure through projects involving neural networks, structured and unstructured data, and API systems.
 
@@ -54,29 +51,29 @@ My long-term goal is to understand how attention, arousal, learning, and decisio
 
 ⸻
 
-Selected Projects
+### Selected Projects
 
-ConvDDI
+#### ConvDDI
 
 CNN-based drug–drug interaction prediction.
 
-TrendXiv
+#### TrendXiv
 
 Analysis and prediction of arXiv research trends.
 
-Bus Delay Prediction
+#### Bus Delay Prediction
 
 MLP-based prediction of bus arrival delays.
 
-Magnolia
+#### Magnolia
 
 Backend and notification-processing system.
 
 ⸻
 
-Tech Stack
+### Tech Stack
 
-Programming Languages
+#### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -86,7 +83,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-AI / Machine Learning
+#### AI / Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -97,14 +94,14 @@ AI / Machine Learning
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-Backend & Systems
+#### Backend & Systems
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-Cloud & Infrastructure
+#### Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Oracle_Cloud_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -115,7 +112,7 @@ Cloud & Infrastructure
 
 ⸻
 
-Current Research Direction
+### Current Research Direction
 
 I am particularly interested in understanding:
 
@@ -126,7 +123,7 @@ I am particularly interested in understanding:
 
 ⸻
 
-Contact
+### Contact
 
-🌐 Website: https://junho.art
+🌐 Website: https://junho.art <br>
 📧 Email: contact@junho.art
