@@ -1,3 +1,6 @@
+<p align="center">
+  🇺🇸 English | 🇰🇷 <a href="./README.ko.md">한국어</a>
+</p>
 <h2 align="center">
   <em>"Finding structure in complex minds is a computational challenge."</em>
 </h2>
