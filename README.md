@@ -1,75 +1,81 @@
 <p align="center">
   🇺🇸 English | 🇰🇷 <a href="./README.ko.md">한국어</a>
 </p>
+
 <h2 align="center">
-  <em>"Finding structure in complex minds is a computational challenge."</em>
+  <em>"Finding structure in complex problems is an art."</em>
 </h2>
+
 <p align="center">
-  Undergraduate Student in Computer Science <br>
-  Interested in Computational Neuroscience, Computational Psychiatry, and Human Learning
-</p>
-<p align="center">
-  <a href="https://junho.art">
-    <img src="https://img.shields.io/badge/Website-junho.art-1f6feb?style=for-the-badge"/>
-  </a>
+  Undergraduate Researcher in Computer Engineering<br>
+  Computational Neuroscience · Whole-Brain Network Modeling · Computational Psychiatry
 </p>
 
-⸻
+<p align="center">
+  <a href="https://junho.art"><img src="https://img.shields.io/badge/Website-junho.art-1f6feb?style=for-the-badge"/></a>
+  <a href="mailto:junho@junho.art"><img src="https://img.shields.io/badge/Email-junho%40junho.art-6f42c1?style=for-the-badge"/></a>
+</p>
 
-## Hello, I’m Junho Heo 👋
+---
 
-I am an undergraduate student in Computer Science interested in computational neuroscience, human learning, decision-making, and computational psychiatry.
-My academic interests began with a simple question:
-Why do people process the same information differently, learn at different speeds, and make different decisions under similar conditions?
-I hope to approach this question by combining computational models, behavioral data, and neural data.
+## Hello, I'm Junho Heo 👋
 
-⸻
+I am an undergraduate researcher in Computer Engineering interested in computational neuroscience, whole-brain network modeling, human learning and decision-making, and computational psychiatry.
 
-### Research Interests
+My experiences with variations in attention, arousal, and learning efficiency led me to ask why the same person may process information differently over time and why people with similar conditions can show different cognitive and behavioral patterns. I aim to study these questions using computational models, behavioral data, and neural data, while treating personal experience as a source of research questions rather than scientific evidence.
 
-* Computational Neuroscience
-* Computational Psychiatry
-* Reinforcement Learning and Decision-Making
-* Human Learning and Cognitive Modeling
-* Behavioral and Neural Data Analysis
+## Research Interests
 
-⸻
+- Computational neuroscience
+- Whole-brain network modeling
+- Brain imaging and neural data analysis
+- Human learning, generalization, and decision-making
+- Computational psychiatry
 
-### Current Focus
+## Current Research Experience
 
-I have experience in machine learning, data preprocessing, backend development, and cloud infrastructure through projects involving neural networks, structured and unstructured data, and API systems.
+I am currently an undergraduate researcher in the Brain–AI Interface Lab at Baekseok University. My current activities include:
 
-I am currently building a stronger foundation in:
+- Reviewing papers in computational neuroscience and neural data analysis
+- Participating in journal discussions
+- Learning foundational workflows for neural data preprocessing
+- Contributing to early-stage research-question development and analysis-environment setup
 
-* Reinforcement Learning
-* Probabilistic Modeling
-* Computational Neuroscience
-* Analysis of Behavioral and Neural Data
-* Mathematical Modeling of Brain and Cognitive Processes
+## Current Research Direction
 
-My long-term goal is to understand how attention, arousal, learning, and decision-making emerge from neural computations and how these processes become disrupted in psychiatric disorders.
+I am particularly interested in understanding:
 
-⸻
+- How attention and arousal influence learning, inference, and decision-making
+- How the brain integrates sensory evidence with prior knowledge
+- How learning and generalization emerge from interactions across brain networks
+- How changes in neural computation may lead to behavioral differences and psychiatric symptoms
+- How computational models can explain both within-person variability and individual differences
 
-### Selected Projects
+## Selected Projects
 
-#### ConvDDI
-* CNN-based drug–drug interaction prediction.
+### [TrendXiv](https://github.com/4season/TrendXiv)
 
-#### TrendXiv
-* Analysis and prediction of arXiv research trends.
+A research-trend prediction pipeline built from approximately 82,000 arXiv computer science papers and citation data. The project emphasizes temporal validation, data leakage prevention, and model generalization.
 
-#### Bus Delay Prediction
-* MLP-based prediction of bus arrival delays.
+### [ConvDDI](https://github.com/4season/ConvDDI)
 
-#### Magnolia
-* Backend and notification-processing system.
+A CNN-based pharmaceutical image-classification and drug–drug interaction detection pipeline that integrates image predictions with ingredient and contraindication databases.
 
-⸻
+### [sobdm-project](https://github.com/4season/sobdm-project)
 
-### Tech Stack
+An MLP-based bus-arrival delay prediction project using schedule, traffic, weather, and cyclic temporal features.
 
-#### Programming Languages
+### [Magnolia](https://github.com/4season/Magnolia)
+
+A backend and notification-processing system built with Go, Rust, and Kotlin.
+
+### [junho.art](https://github.com/4season/junho.art)
+
+A personal research portfolio website developed with HTML, CSS, JavaScript, and GitHub API integration.
+
+## Technical Foundation
+
+### Programming
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -79,7 +85,7 @@ My long-term goal is to understand how attention, arousal, learning, and decisio
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### AI / Machine Learning
+### Machine Learning and Data Analysis
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -90,36 +96,28 @@ My long-term goal is to understand how attention, arousal, learning, and decisio
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-#### Backend & Systems
+### Systems and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-#### Cloud & Infrastructure
+## Current Learning Goals
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle_Cloud_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
+- Whole-brain computational modeling
+- Brain imaging analysis
+- Probabilistic modeling
+- Reinforcement learning and decision-making
+- Mathematical modeling of neural and cognitive processes
 
-⸻
+## Contact
 
-### Current Research Direction
-
-I am particularly interested in understanding:
-
-* How neural systems integrate information and generate behavior.
-* How attention and arousal influence learning and decision-making.
-* How computational models can explain individual differences and psychiatric disorders.
-* How biological principles can inspire robust and adaptive artificial intelligence.
-
-⸻
-
-### Contact
-
-🌐 Website: https://junho.art <br>
-📧 Email: contact@junho.art
+- Website: [junho.art](https://junho.art)
+- Email: [junho@junho.art](mailto:junho@junho.art)
+- ORCID: [0009-0004-8594-9000](https://orcid.org/0009-0004-8594-9000)
