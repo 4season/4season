@@ -8,7 +8,7 @@
 
 <p align="center">
   Undergraduate Researcher in Computer Engineering<br>
-  Computational Neuroscience · Whole-Brain Network Modeling · Computational Psychiatry
+  Computational Neuroscience · Learning and Decision-Making · Computational Psychiatry
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 
 ## Hello, I'm Junho Heo 👋
 
-I am an undergraduate researcher in Computer Engineering interested in computational neuroscience, whole-brain network modeling, human learning and decision-making, and computational psychiatry.
+I am an undergraduate researcher in Computer Engineering interested in computational neuroscience, brain network modeling, human learning and decision-making, and computational psychiatry.
 
-My experiences with variations in attention, arousal, and learning efficiency led me to ask why the same person may process information differently over time and why people with similar conditions can show different cognitive and behavioral patterns. I aim to study these questions using computational models, behavioral data, and neural data, while treating personal experience as a source of research questions rather than scientific evidence.
+My experiences with variations in attention, arousal, and learning efficiency led me to ask why the same person may process information differently across internal states and why individuals can show different cognitive and behavioral patterns. I hope to study these questions using computational models, behavioral data, and neural data, while treating personal experience as a source of research questions rather than scientific evidence.
 
 ## Research Interests
 
 - Computational neuroscience
-- Whole-brain network modeling
-- Brain imaging and neural data analysis
+- Brain network modeling
+- Neural and behavioral data analysis
 - Human learning, generalization, and decision-making
 - Computational psychiatry
 
@@ -55,62 +55,54 @@ I am particularly interested in understanding:
 
 ### [TrendXiv](https://github.com/4season/TrendXiv)
 
-A research-trend prediction pipeline built from approximately 82,000 arXiv computer science papers and citation data. The project emphasizes temporal validation, data leakage prevention, and model generalization.
+A machine-learning pipeline for classifying short-term attention levels of approximately 82,000 arXiv computer-science papers. The project emphasizes temporal validation, data-leakage control, and analysis of model dependence on subject-category features.
 
 ### [ConvDDI](https://github.com/4season/ConvDDI)
 
-A CNN-based pharmaceutical image-classification and drug–drug interaction detection pipeline that integrates image predictions with ingredient and contraindication databases.
+A CNN-based pill-image classification pipeline linked to ingredient and contraindication databases for rule-based drug–drug interaction checking.
 
 ### [sobdm-project](https://github.com/4season/sobdm-project)
 
-An MLP-based bus-arrival delay prediction project using schedule, traffic, weather, and cyclic temporal features.
+An MLP-based bus-arrival prediction project integrating operational, traffic, weather, and cyclic temporal features, with a focus on aligning independently collected data sources.
 
 ### [Magnolia](https://github.com/4season/Magnolia)
 
-A backend and notification-processing system built with Go, Rust, and Kotlin.
+An API server and Android application for processing notifications and forwarding them to KakaoTalk.
 
 ### [junho.art](https://github.com/4season/junho.art)
 
-A personal research portfolio website developed with HTML, CSS, JavaScript, and GitHub API integration.
+A responsive research portfolio website developed with HTML, CSS, and JavaScript, with automated GitHub project synchronization through the GraphQL API.
 
 ## Technical Foundation
 
-### Programming
+### Core Programming and Analysis
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Machine Learning and Data Analysis
-
-<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Systems and Tools
+### Research and Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+Additional project experience includes MATLAB, Julia, Rust, Go, JavaScript, and Node.js.
 
 ## Current Learning Goals
 
-- Whole-brain computational modeling
+- Brain computational modeling
 - Brain imaging analysis
 - Probabilistic modeling
 - Reinforcement learning and decision-making
