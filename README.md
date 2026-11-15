@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  Undergraduate Researcher in Computer Engineering<br>
+  Aspiring Researcher in Computer Engineering<br>
   Computational Neuroscience · Learning and Decision-Making · Computational Psychiatry
 </p>
 
@@ -20,7 +20,7 @@
 
 ## Hello, I'm Junho Heo 👋
 
-I am an undergraduate researcher in Computer Engineering interested in computational neuroscience, brain network modeling, human learning and decision-making, and computational psychiatry.
+I am an aspiring researcher studying Computer Engineering, interested in computational neuroscience, brain network modeling, human learning and decision-making, and computational psychiatry.
 
 My experiences with variations in attention, arousal, and learning efficiency led me to ask why the same person may process information differently across internal states and why individuals can show different cognitive and behavioral patterns. I hope to study these questions using computational models, behavioral data, and neural data, while treating personal experience as a source of research questions rather than scientific evidence.
 
@@ -34,7 +34,7 @@ My experiences with variations in attention, arousal, and learning efficiency le
 
 ## Current Research Experience
 
-I am currently an undergraduate researcher in the Brain–AI Interface Lab at Baekseok University. My current activities include:
+I am currently an undergraduate research trainee in the Brain–AI Interface Lab at Baekseok University, advised by Prof. Minki Kim. My current activities include:
 
 - Decoding reach direction from M1 spikes with a cross-validated population vector ([Population-vector-decoding](https://github.com/Brain-AI-Interface-lab/Population-vector-decoding))
 - Inspecting spike waveforms in Blackrock Cerebus/BOSS and PCA-based spike sorting on lab training data
