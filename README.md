@@ -36,6 +36,8 @@ My experiences with variations in attention, arousal, and learning efficiency le
 
 I am currently an undergraduate researcher in the Brain–AI Interface Lab at Baekseok University. My current activities include:
 
+- Decoding reach direction from M1 spikes with a cross-validated population vector ([Population-vector-decoding](https://github.com/Brain-AI-Interface-lab/Population-vector-decoding))
+- Inspecting spike waveforms in Blackrock Cerebus/BOSS and PCA-based spike sorting on lab training data
 - Reviewing papers in computational neuroscience and neural data analysis
 - Participating in journal discussions
 - Learning foundational workflows for neural data preprocessing
@@ -50,6 +52,20 @@ I am particularly interested in understanding:
 - How learning and generalization emerge from interactions across brain networks
 - How changes in neural computation may lead to behavioral differences and psychiatric symptoms
 - How computational models can explain both within-person variability and individual differences
+
+## Main Project
+
+### [Population-vector-decoding](https://github.com/Brain-AI-Interface-lab/Population-vector-decoding)
+
+<a href="https://github.com/Brain-AI-Interface-lab/Population-vector-decoding"><img src="https://raw.githubusercontent.com/Brain-AI-Interface-lab/Population-vector-decoding/main/outputs/population_vector/pv_direction_mean_tet.gif" width="380" align="right" alt="Population vectors for eight reach directions"/></a>
+
+Directional tuning and population-vector decoding (Georgopoulos et al., 1982, 1986) applied to public monkey M1 reaching data (Flint et al., 2012), written in Julia.
+
+- Cosine tuning fitted on per-direction mean rates; 34 of 82 units tuned (R² ≥ 0.7)
+- Cross-validated population vector: median error 12° from the target (direction-averaged), 59% 8-way accuracy on single trials (chance 12.5%)
+- Time-resolved analysis: the population vector grows about 100 ms before hand speed
+
+<br clear="right"/>
 
 ## Selected Projects
 

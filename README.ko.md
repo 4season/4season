@@ -36,6 +36,8 @@
 
 현재 백석대학교 Brain–AI Interface Lab에서 학부연구생으로 활동하고 있습니다.
 
+- 교차검증한 집단 벡터로 M1 spike에서 팔 뻗기 방향 디코딩 ([Population-vector-decoding](https://github.com/Brain-AI-Interface-lab/Population-vector-decoding))
+- Blackrock Cerebus/BOSS로 spike 파형 확인 및 실습 데이터의 PCA 기반 spike sorting
 - 계산신경과학 및 신경 데이터 분석 관련 논문 검토
 - 저널 토론 참여
 - 신경 데이터 전처리의 기초 워크플로 학습
@@ -50,6 +52,20 @@
 - 뇌 네트워크의 상호작용에서 학습과 일반화가 어떻게 나타나는가
 - 신경 계산의 변화가 행동의 차이와 정신의학적 증상으로 어떻게 이어지는가
 - 계산 모델로 개인 내 변동성과 개인차를 어떻게 함께 설명할 수 있는가
+
+## 메인 프로젝트
+
+### [Population-vector-decoding](https://github.com/Brain-AI-Interface-lab/Population-vector-decoding)
+
+<a href="https://github.com/Brain-AI-Interface-lab/Population-vector-decoding"><img src="https://raw.githubusercontent.com/Brain-AI-Interface-lab/Population-vector-decoding/main/outputs/population_vector/pv_direction_mean_tet.gif" width="380" align="right" alt="8개 방향의 집단 벡터"/></a>
+
+공개된 원숭이 M1 reaching 데이터(Flint et al., 2012)에 Georgopoulos et al.(1982, 1986)의 방향 튜닝과 집단 벡터 디코딩을 적용한 Julia 프로젝트입니다.
+
+- 방향별 평균 발화율로 코사인 튜닝 피팅, 82개 중 34개 unit 튜닝(R² ≥ 0.7)
+- 교차검증 집단 벡터: 방향별 평균 기준 목표 방향과의 오차 중앙값 12°, 단일 trial 8방향 정답률 59%(우연 수준 12.5%)
+- 시간에 따른 분석: 집단 벡터가 손 속도보다 약 100 ms 먼저 커짐
+
+<br clear="right"/>
 
 ## 주요 프로젝트
 
